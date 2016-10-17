@@ -9,7 +9,7 @@ import org.junit.runners.Suite;
     BoardTest.class,
     TicTacToeTest.class,
     PerfectPlayerTest.class,
-    YourConsultantTest.class,
+    MyConsultantTest.class,
     ConsultantTest.class
 })
 

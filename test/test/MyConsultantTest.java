@@ -19,7 +19,7 @@ import static org.mockito.Mockito.when;
 import java.util.ArrayList;
 
 @RunWith(MockitoJUnitRunner.class)
-public class YourConsultantTest {
+public class MyConsultantTest {
 
     private GameBoard board;
 
